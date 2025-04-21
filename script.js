@@ -48,7 +48,6 @@ const games = [
     },
     {
         title: "DogeMiner",
-        image: "https://www.tynker.com/projects/images/fa05912bfa019f2822a07833c115fdb5e50db7dd/image4---image.png",
         url: `${baseURL}/DogeMiner/`
     },
     {
@@ -62,6 +61,10 @@ const games = [
     {
         title: "Ragdoll Archers",
         url: `${secondaryURL}/ragdoll-archers`
+    },
+    {
+        title: "Dreadhead Parkour",
+        url: `${secondaryURL}/dreadhead-parkour`
     }
 ];
 

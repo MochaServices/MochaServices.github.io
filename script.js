@@ -98,6 +98,34 @@ const games = [
         title: "Monkey Mart",
         url: `${secondaryURL}/monkey-mart`
     },
+    {
+        title: "Toss the Turtle",
+        url: `${baseURL}/tosstheturtle`
+    },
+    {
+        title: "Tag",
+        url: `${secondaryURL}/tag`
+    },
+    {
+        title: "Capybara Clicker",
+        url: `${secondaryURL}/capybara-clicker`
+    },
+    {
+        title: "Moto X3M",
+        url: `${secondaryURL}/motox3m`
+    },
+    {
+        title: "War of Sticks",
+        url: `${secondaryURL}/war-of-sticks`
+    },
+    {
+        title: "Turbo Motor Racer",
+        url: `${secondaryURL}/turbo-motor-racer`
+    },
+    {
+        title: "Getaway Shootout",
+        url: `${secondaryURL}/getaway-so`
+    },
 ];
 
 document.addEventListener('DOMContentLoaded', () => {

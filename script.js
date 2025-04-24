@@ -134,6 +134,10 @@ const games = [
         title: "Sort the Court",
         url: `${secondaryURL}/sort-the-court`
     },
+    {
+        title: "Crossy Road",
+        url: `${baseURL}/crossyroad`
+    },
 ];
 
 document.addEventListener('DOMContentLoaded', () => {

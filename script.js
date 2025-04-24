@@ -126,6 +126,14 @@ const games = [
         title: "Getaway Shootout",
         url: `${secondaryURL}/getaway-so`
     },
+    {
+        title: "Apple Knight",
+        url: `${secondaryURL}/apple-knight`
+    },
+    {
+        title: "Sort the Court",
+        url: `${secondaryURL}/sort-the-court`
+    },
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -345,7 +353,7 @@ function openInBlank(url) {
     iframe.style.width = '100%';
     iframe.style.height = '100vh';
     iframe.style.border = 'none';
-    iframe.src = url;
+    iframe.src = url; 
     win.document.body.style.margin = '0';
     win.document.body.appendChild(iframe);
 }

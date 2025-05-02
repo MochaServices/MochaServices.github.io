@@ -67,7 +67,7 @@ const games = [
         url: `${secondaryURL}/dreadhead-parkour`
     },
     {
-        title: "Polytrack NEW VERSION",
+        title: "Polytrack 5.0",
         url: `https://html-classic.itch.zone/html/13305767/index.html`
     },
     {
@@ -137,6 +137,22 @@ const games = [
     {
         title: "Crossy Road",
         url: `${baseURL}/crossyroad`
+    },
+    {
+        title: "Basket Random",
+        url: `${secondaryURL}/basket-random`
+    },
+    {
+        title: "Sling Drift",
+        url: `${secondaryURL}/sling-drift`
+    },
+    {
+        title: "Rooftop Snipers",
+        url: `${secondaryURL}/rooftop-snipers`
+    },
+    {
+        title: "The Impossible Quiz",
+        url: `${baseURL}/impossiblequiz`
     },
 ];
 
